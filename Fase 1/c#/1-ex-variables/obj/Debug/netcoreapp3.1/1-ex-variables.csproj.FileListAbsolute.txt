@@ -1,0 +1,26 @@
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.exe
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.deps.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.runtimeconfig.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.runtimeconfig.dev.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.dll
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.pdb
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.AssemblyInfo.cs
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.dll
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.pdb
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.genruntimeconfig.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.exe
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.deps.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.runtimeconfig.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.runtimeconfig.dev.json
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.dll
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\bin\Debug\netcoreapp3.1\1-ex-variables.pdb
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.AssemblyInfo.cs
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.dll
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.pdb
+C:\Users\Karina\Desktop\copia_proyecto_git\1-EX-VARIABLES-.NET\Fase 1\c#\1-ex-variables\obj\Debug\netcoreapp3.1\1-ex-variables.genruntimeconfig.cache
