@@ -1,0 +1,24 @@
+<script>
+    var ano_bisiesto = 1948;
+    var ano_nacimiento = 1984;
+    var cada_cuanto = 4;
+    var nacimiento_bisiesto = false;
+    var nombre = "Karina Rodriguez Ramirez";
+    var fecha_nacimiento = "25/05/1984";
+
+    for (let i = ano_bisiesto; i <= ano_nacimiento; i+=cada_cuanto) {
+        console.log("Ano bisiesto: " + i);
+        if (i == ano_nacimiento)
+            nacimiento_bisiesto = true;
+    }
+
+    var nacimiento = "";
+    if (nacimiento_bisiesto == true)
+        nacimiento = "Mi año de nacimiento es bisiesto";
+    else
+        nacimiento = "Mi año de nacimiento no es bisiesto";
+
+    console.log("Mi nombre es " + nombre);
+    console.log("Nací el " + fecha_nacimiento);
+    console.log(nacimiento);
+</script>
